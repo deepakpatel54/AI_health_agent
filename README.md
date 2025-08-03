@@ -56,10 +56,11 @@ Telemedicine Integration: Directly connect users with certified doctors or clini
 
 
 📐 SETUP & TESTING
- <img width="1592" height="770" alt="image" src="https://github.com/user-attachments/assets/c4a88306-f69d-42b7-9762-849405391caf" />
+<img src="[images/screenshot.png](https://github.com/deepakpatel54/AI_health_agent/blob/main/setup.png)" width="600"/>
 
 🪲 DEPLOYED
-<img width="1593" height="762" alt="image" src="https://github.com/user-attachments/assets/155bd06c-084d-4fe5-90b5-c3b83dccff48" />
+<img src="[images/screenshot.png](https://github.com/deepakpatel54/AI_health_agent/blob/main/deployed.png)" width="600"/>
+
 
 
 🤝 Contributors
